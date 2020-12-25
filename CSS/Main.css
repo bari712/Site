@@ -114,6 +114,24 @@ a
 	background-image: url(../imgs/cards/card6.jpg);
 }
 
+#card7
+{
+	background: #fff;
+	background-image: url(../imgs/cards/card7.jpg);
+}
+
+#card8
+{
+	background: #fff;
+	background-image: url(../imgs/cards/card8.jpg);
+}
+
+#card9
+{
+	background: #fff;
+	background-image: url(../imgs/cards/card9.jpg);
+}
+
 .price
 {
 	text-align: center;
