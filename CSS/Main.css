@@ -62,7 +62,6 @@ a
 {
 	margin: 0;
 	width: 1340px;
-	height: 500px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 50px;	
@@ -76,6 +75,7 @@ a
 	margin-right: 35px;
 	display: inline-block;	
 	margin-bottom: 35px;
+	transition: 0.7s
 }
 
 #card1
@@ -172,6 +172,15 @@ a
 	color: #fff;
 	border-radius: 4px;
 	transition: 0.5s;
+	font-family: open sans,sans-serif;
+	padding: 10px;
+	  
+}
+
+.look:hover
+{
+	background: #fff;
+	color: #000;
 }
 
 .vau_effect:hover
@@ -182,4 +191,5 @@ a
 .vau_effect:hover .look
 {
 	visibility: visible
+	
 }
